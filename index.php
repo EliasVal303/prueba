@@ -9,3 +9,6 @@
     
 </body>
 </html>
+<?php
+    echo"Hola putos"
+?>
